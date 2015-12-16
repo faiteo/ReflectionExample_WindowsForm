@@ -1,0 +1,9 @@
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ReflectionExample_WindowsForm\ReflectionExample_WindowsForm\bin\Debug\ReflectionExample_WindowsForm.exe.config
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ReflectionExample_WindowsForm\ReflectionExample_WindowsForm\bin\Debug\ReflectionExample_WindowsForm.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ReflectionExample_WindowsForm\ReflectionExample_WindowsForm\bin\Debug\ReflectionExample_WindowsForm.pdb
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ReflectionExample_WindowsForm\ReflectionExample_WindowsForm\obj\Debug\ReflectionExample_WindowsForm.Form1.resources
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ReflectionExample_WindowsForm\ReflectionExample_WindowsForm\obj\Debug\ReflectionExample_WindowsForm.Properties.Resources.resources
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ReflectionExample_WindowsForm\ReflectionExample_WindowsForm\obj\Debug\ReflectionExample_WindowsForm.csproj.GenerateResource.Cache
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ReflectionExample_WindowsForm\ReflectionExample_WindowsForm\obj\Debug\ReflectionExample_WindowsForm.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ReflectionExample_WindowsForm\ReflectionExample_WindowsForm\obj\Debug\ReflectionExample_WindowsForm.pdb
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ReflectionExample_WindowsForm\ReflectionExample_WindowsForm\obj\Debug\ReflectionExample_WindowsForm.csprojResolveAssemblyReference.cache
